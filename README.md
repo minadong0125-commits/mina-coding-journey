@@ -9,3 +9,4 @@ This repository records my daily progress in:
 ## Daily Progress
 
 - 2026-02-17 – Built a CLI tool for video → frames
+- 2026-02-18 - FPS-based extraction + tool UX upgrade
